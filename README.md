@@ -1,2 +1,6 @@
 # Scholarships-STEM
-STEM scholarahip list.
+
+STEM scholarship list.
+
+- [Fellowships](./fellowship.md)
+- [Awards/Grants](./awards-grants.md)
