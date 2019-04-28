@@ -2,5 +2,5 @@
 
 STEM scholarship list.
 
-- [Fellowships](./fellowship.md)
+- [Fellowships](./fellowships.md)
 - [Awards/Grants](./awards-grants.md)
