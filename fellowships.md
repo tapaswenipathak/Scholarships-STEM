@@ -42,7 +42,7 @@ Engineering
 General Science
 ---------------
 
-- [The Jeannette Rankin Foundation Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-type/scholarships-for-women/jeannette-rankin-womens-scholarship-fund/
+- [The Jeannette Rankin Foundation Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-type/scholarships-for-women/jeannette-rankin-womens-scholarship-fund/)
 - [Society of Women Engineers Scholarships](https://scholarships.swe.org/applications/login.asp)
 - [Women in Engineering and Computer and Information Science](https://www.nsf.gov/pubs/2003/nsf03050/nsf03050.htm)
 - [The Association for Women in Science College Scholarship](https://www.awis.org/)
