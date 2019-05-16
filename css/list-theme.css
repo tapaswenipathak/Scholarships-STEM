@@ -17,7 +17,8 @@ h4,
 h5,
 h6 {
   font-family: 'Merriweather';
-  font-weight: 700;
+  font-weight: 700
+    color : #fff;
 }
 
 video {
@@ -50,7 +51,7 @@ video {
   height: 100%;
   width: 100%;
   background-color: #cd9557;
-  opacity: 0.7;
+  opacity: 0.5;
   z-index: 1;
 }
 
