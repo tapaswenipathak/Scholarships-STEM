@@ -11,6 +11,10 @@ Technology
 - [Zonta](https://www.zonta.org/Global-Impact/Education/Women-in-Business-Scholarship)
 - [Adobe Research Women in Technology Scholarship](https://research.adobe.com/scholarship/)
 - [WeTech Qualcomm Global Scholars Program](https://www.iie.org/en/Programs/WeTech/STEM-Scholarships-for-Women/Qualcomm-Global-Scholars-Program)
+- [Anne-Marie Imafidon Scholarships for Women in Technology](https://www.dur.ac.uk/computer.science/about/diversity/scholarship/)
+- [Booking.com Women in Technology Scholarships](https://globalnews.booking.com/bookingcom-announces-new-scholarship-programmes-with-the-university-of-oxford-and-delft-university-of-technology-to-support-advanced-education-for-women-in-technology/)
+- [Microsoft Women's Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/)
+- [Women Techmakers Scholars Program](https://blog.aboutamazon.co.uk/in-the-community/meet-claire-one-of-three-women-selected-for-the-amazon-women-in-innovation-bursary)
 
 Biology
 -------
