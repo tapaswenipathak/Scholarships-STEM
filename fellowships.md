@@ -59,4 +59,4 @@ General Science
 Mathematics
 ---------------
 
--[ACF Woodcock Family Education Scholarship Program](http://albuquerquefoundation.org/woodcock-family-education-scholarship-program.aspx)
+- [ACF Woodcock Family Education Scholarship Program](http://albuquerquefoundation.org/woodcock-family-education-scholarship-program.aspx)
