@@ -1,8 +1,6 @@
-Fellowships
------------
+## Fellowships
 
-Technology
-----------
+## Technology
 
 - [ATHENA](https://nashvillecable.org/advocacy/athena/)
 - [AWIB](http://www.awib.org/index.cfm?fuseaction=Page.ViewPage&PageID=811)
@@ -16,15 +14,15 @@ Technology
 - [Microsoft Women's Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/)
 - [Women Techmakers Scholars Program](https://blog.aboutamazon.co.uk/in-the-community/meet-claire-one-of-three-women-selected-for-the-amazon-women-in-innovation-bursary)
 
-Biology
--------
+-[Microsft Scholarship Program](https://careers.microsoft.com/us/en/usscholarshipprogram)
+
+## Biology
 
 - [Libbie H. Hyman Memorial Scholarship](http://www.sicb.org/grants/hyman/)
 - [Dr. Nancy Foster Scholarship](https://fosterscholars.noaa.gov/)
 - [Women Divers Hall of Fame Scholarships](http://www.wdhof.org/)
 
-Physical Sciences
------------------
+## Physical Sciences
 
 - [Maria Goeppert Mayer Award](https://www.aps.org/programs/honors/prizes/goeppert-mayer.cfm)
 - [The National Physical Science Consortium](https://expd.uw.edu/expo/scholarships/npscgf)
@@ -32,19 +30,16 @@ Physical Sciences
 - [The Katherine E. Weimer Scholarship](https://www.aps.org/programs/women/scholarships/katherineweimer.cfm)
 - [NASA Scholarships and Research Programs](https://science.nasa.gov/learners/learner-opportunities)
 
-Computer Science
-----------------
+## Computer Science
 
 - [Michigan Council of Women](https://www.mcwt.org/)
 - [HP Scholar program](https://swsis.wordpress.com/applying-for-scholarships/)
 
-Engineering
------------
+## Engineering
 
 - [Society of Automotive Engineers Women Engineers Scholarship](https://scholarships.swe.org/applications/login.asp)
 
-General Science
----------------
+## General Science
 
 - [The Jeannette Rankin Foundation Scholarships](https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-type/scholarships-for-women/jeannette-rankin-womens-scholarship-fund/)
 - [Society of Women Engineers Scholarships](https://scholarships.swe.org/applications/login.asp)
@@ -56,7 +51,6 @@ General Science
 - [Amelia Earhart fellowship ](https://foundation.zonta.org/Our-Programs/Educational-Programs/Amelia-Earhart-Fellowship)
 - [APS/IBM Research Internship for Undergraduate Women](https://www.aps.org/programs/women/scholarships/ibm/index.cfm)
 
-Mathematics
----------------
+## Mathematics
 
 - [ACF Woodcock Family Education Scholarship Program](http://albuquerquefoundation.org/woodcock-family-education-scholarship-program.aspx)
