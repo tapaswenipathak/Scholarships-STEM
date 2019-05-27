@@ -38,6 +38,7 @@
 ## Engineering
 
 - [Society of Automotive Engineers Women Engineers Scholarship](https://scholarships.swe.org/applications/login.asp)
+- [The de Moya foundation](https://demoyafoundation.com/scholarships/)
 
 ## General Science
 
