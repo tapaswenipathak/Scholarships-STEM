@@ -13,8 +13,8 @@
 - [Booking.com Women in Technology Scholarships](https://globalnews.booking.com/bookingcom-announces-new-scholarship-programmes-with-the-university-of-oxford-and-delft-university-of-technology-to-support-advanced-education-for-women-in-technology/)
 - [Microsoft Women's Fellowship Program](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/)
 - [Women Techmakers Scholars Program](https://blog.aboutamazon.co.uk/in-the-community/meet-claire-one-of-three-women-selected-for-the-amazon-women-in-innovation-bursary)
-
--[Microsft Scholarship Program](https://careers.microsoft.com/us/en/usscholarshipprogram)
+- [Microsft Scholarship Program](https://careers.microsoft.com/us/en/usscholarshipprogram)
+- [The de Moya Foundation](https://demoyafoundation.com/scholarships/armando-j-de-moya-scholarship)
 
 ## Biology
 
@@ -49,7 +49,7 @@
 - [The Microsoft Research Graduate Women’s Scholarship](https://www.studyandscholarships.com/2013/04/microsoft-research-graduate-womens-scholarship-program.html)
 - [Center for Women & Information Technology Scholarship Program](https://wiit.uncg.edu/scholarships/)
 - [AT&T Labs Fellowship Program](https://searchkey.us/2016/11/23/att-labs-fellowship-program/)
-- [Amelia Earhart fellowship ](https://foundation.zonta.org/Our-Programs/Educational-Programs/Amelia-Earhart-Fellowship)
+- [Amelia Earhart fellowship](https://foundation.zonta.org/Our-Programs/Educational-Programs/Amelia-Earhart-Fellowship)
 - [APS/IBM Research Internship for Undergraduate Women](https://www.aps.org/programs/women/scholarships/ibm/index.cfm)
 
 ## Mathematics

@@ -8,7 +8,10 @@
 )](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FScholarships-STEM%2Fblob%2Fmaster%2FREADME.md)
 
 
-STEM scholarship list.
+##STEM scholarship list.
 
 - [Fellowships](./fellowships.md)
 - [Awards/Grants](./awards-grants.md)
+
+##Contributing
+Contribute by forking the repository, cloning it locally and running <code>npm install</code> and <code>npm start</code> in repository's folder!
