@@ -15,6 +15,7 @@
 - [Women Techmakers Scholars Program](https://blog.aboutamazon.co.uk/in-the-community/meet-claire-one-of-three-women-selected-for-the-amazon-women-in-innovation-bursary)
 - [Microsft Scholarship Program](https://careers.microsoft.com/us/en/usscholarshipprogram)
 - [The de Moya Foundation](https://demoyafoundation.com/scholarships/armando-j-de-moya-scholarship)
+- [The Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/)
 
 ## Biology
 
